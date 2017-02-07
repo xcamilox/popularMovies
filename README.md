@@ -1,2 +1,0 @@
-# popularMovies
-List of Movies
